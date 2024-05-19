@@ -8,7 +8,8 @@ Fue desarrollado con HTML, CSS y JS con el uso de framework Bootstrap utilizando
 
 - Capturas de pantalla
 
-![Sección Yo](<d:\Captura de pantalla 2024-05-19 023639.png>)
+![Sección Yo](<![Captura de pantalla 2024-05-19 023639](https://github.com/Nata1920/TECNOLOCHICAS/assets/168685391/887090dd-6722-4498-a868-739bd79ee4a2)
+>)
 ![Sección Yo](<d:\Captura de pantalla 2024-05-19 023726.png>)
 ![Sección Yo](<d:\Captura de pantalla 2024-05-19 023808.png>)
 ![Sección Yo](<d:\Captura de pantalla 2024-05-19 024002.png>)
@@ -24,4 +25,4 @@ Fue desarrollado con HTML, CSS y JS con el uso de framework Bootstrap utilizando
 
 Ocupamos bibliotecas extra.
 
-Creado por Malinali en el bootcamp de Technolochicas PRO.
+Creado por Natali en el bootcamp de Technolochicas PRO.
